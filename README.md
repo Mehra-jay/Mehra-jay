@@ -7,10 +7,10 @@
 - 👨‍💻 All of my projects are available at [Mehra-jay](https://github.com/Mehra-jay)
 - 📫 How to reach me: jaymehra2002@gmail.com
 
-___
+
 
 <br>
-#MY TECH
+<h1>#MY TECH</h1>
 
 <div>
 <p align="center" style="
@@ -43,9 +43,8 @@ ___
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="gcp" width="40" height="40"/> </a>
      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 
-___
 
-#MY STATS
+<h1>#MY STATS</h1>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehra-jay&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="Mehra-jay" /></p>
 </p>
 </div>
