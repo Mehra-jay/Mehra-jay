@@ -1,11 +1,13 @@
  
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="12px" height="40px">, I am Jay Mehra</h1>
  
-
+ 
 - 🔭 I’m currently a B.TECH student at Maulana Azad National Institute of Technology
-- 🌱 I’m currently learning about how to Host a site
-- 💬 Ask me about ...
+- 🌱 I’m currently learning web development
+- 👨‍💻 All of my projects are available at [Mehra-jay](https://github.com/Mehra-jay)
 - 📫 How to reach me: jaymehra2002@gmail.com
+
+___
 
 <br>
 #MY TECH
@@ -40,5 +42,10 @@
      <!-- VS Code -->
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="gcp" width="40" height="40"/> </a>
      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+
+___
+
+#MY STATS
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehra-jay&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="Mehra-jay" /></p>
 </p>
 </div>
