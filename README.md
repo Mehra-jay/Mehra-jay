@@ -48,5 +48,9 @@
 
 <h1>#MY STATS</h1>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehra-jay&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="Mehra-jay" /></p>
+
+<h1>#MOSTLY USED LANGUAGES</h1>
+<a href="https://github.com/Mehra-jay"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehra-jay&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=radical" /></p>
+</a>
 </p>
 </div>
