@@ -1,5 +1,5 @@
  
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="12px" height="40px">, I am Jay Mehra</h1>
+<h1 align="center"> Hey there  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px"> ,  I am Jay Mehra</h1>
  
  
 - 🔭 I’m currently a B.TECH student at Maulana Azad National Institute of Technology
