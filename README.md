@@ -8,7 +8,10 @@
 - 📫 How to reach me: jaymehra2002@gmail.com
 
 
+<br>
 
+[![@jayyuu's Holopin board](https://holopin.me/jayyuu)](https://holopin.io/@jayyuu)
+</br>
 <br>
 <h1>#MY TECH</h1>
 
