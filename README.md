@@ -4,7 +4,7 @@
  
 - 🎓 CSE Graduate'24 (MANIT Bhopal)
 - 🤖 Exploring Generative AI, RAG, LLMs & Prompt Engineering  
-- ☁️ Learning Cloud Technologies (GCP, FastAPI, Vector DBs)  
+- ☁️ Learning Cloud Technologies (GCP, FastAPI)  
 - 💡 Interested in System Design & Scalable Applications  
 - 👨‍💻 All of my projects are available at [Mehra-jay](https://github.com/Mehra-jay)
 - 📫 How to reach me: mehraajayy11@gmail.com
