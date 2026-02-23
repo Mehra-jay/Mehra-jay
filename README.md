@@ -2,8 +2,10 @@
 <h1 align="center"> Hey there  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px"> ,  I am Jay Mehra</h1>
  
  
-- 🔭 I’m currently a B.TECH student at Maulana Azad National Institute of Technology
-- 🌱 I’m currently learning web development
+- 🎓 CSE Graduate'24 (MANIT Bhopal)
+- 🤖 Exploring Generative AI, RAG, LLMs & Prompt Engineering  
+- ☁️ Learning Cloud Technologies (GCP, FastAPI, Vector DBs)  
+- 💡 Interested in System Design & Scalable Applications  
 - 👨‍💻 All of my projects are available at [Mehra-jay](https://github.com/Mehra-jay)
 - 📫 How to reach me: mehraajayy11@gmail.com
 
@@ -51,10 +53,24 @@
 
 
 <h1>#MY STATS</h1>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehra-jay&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="Mehra-jay" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehra-jay&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="Mehra-jay" /></p> -->
 
-<h1>#MOSTLY USED LANGUAGES</h1>
-<a href="https://github.com/Mehra-jay"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehra-jay&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=radical" /></p>
-</a>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehra-jay&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehra-jay&theme=tokyonight" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehra-jay&layout=compact&theme=tokyonight" />
+</p> -->
+
+### 🌱 Currently Learning
+- Advanced Prompt Engineering  
+- LLM Fine-tuning  
+- Production-grade RAG systems  
+- Cloud-native deployment
 </p>
 </div>
