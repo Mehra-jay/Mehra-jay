@@ -5,7 +5,7 @@
 - 🔭 I’m currently a B.TECH student at Maulana Azad National Institute of Technology
 - 🌱 I’m currently learning web development
 - 👨‍💻 All of my projects are available at [Mehra-jay](https://github.com/Mehra-jay)
-- 📫 How to reach me: jaymehra2002@gmail.com
+- 📫 How to reach me: mehraajayy11@gmail.com
 
 
 <br>
